@@ -124,6 +124,7 @@ body{
     height: 35px;
     margin: 0 auto;
     padding-left: 30px;
+    color:white;
 }
 
 #searchbox:hover{
@@ -137,5 +138,5 @@ body{
     height: 35px;
     margin: 0 auto;
     padding-left: 30px;
-    
+    color:white;
 }
